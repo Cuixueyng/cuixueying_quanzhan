@@ -1,0 +1,80 @@
+.signup {
+    position: relative;
+    left: 32%;
+    width: 450px;
+    height: 795px;
+    background-color: antiquewhite;
+}
+.header_flex {
+    top: -98%;
+    left: 2.5%;
+   position: relative;
+    width: 430px;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.header_box1 {
+    width: 37px;
+    height: 37px;
+}
+.header_box2 {
+    width: 81px;
+    height: 23px;
+}
+.header_box3 {
+    width: 37px;
+    height: 37px;
+}
+.photo {
+    position: relative;
+    width: 112px;
+    height: 112px;
+    top: -92%;
+    left: 38%;
+}
+.information_flex {
+    width: 350px;
+    height: 300px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    top: -90%;
+    left: 11%;
+}
+.information_box {
+    width: 350px;
+    height: 70px;
+}
+.password_flex {
+    width: 350px;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.password_box_word {
+    width: 200px;
+    height: 70px;
+}
+.password_box_show{
+    width: 150px;
+    height: 70px;
+    text-align: right;
+}
+.signup_button{
+    width: 331px;
+    height: 56px;
+    position: relative;
+    top: -88%;
+    left: 14%;
+}
+.footer{
+    width: 206px;
+    height: 17px;
+    position: relative;
+    top: -86%;
+    left: 28%;
+}
